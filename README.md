@@ -1,3 +1,8 @@
+# alexandraweaver.github.io
+ Alexandra Weaver's portfolio, created via create-react-app & hand-coded in React.
+
+ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
