@@ -6,15 +6,21 @@ import './App.css';
 import PageHeader from './components/structure-components/PageHeader';
 import PageFooter from './components/structure-components/PageFooter';
 import HomePageBody from './components/page-components/HomePageBody';
+import { Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <PageHeader/>
+      <Routes>
+        <Route path="/" element={<HomePageBody/>}/>
+      </Routes>
 
-      <HomePageBody/>
-
-      <PageFooter/>
+      {/* 
+        <PageHeader/>
+        <HomePageBody/>
+        <PageFooter/> 
+      */}
+      
     </div>
   );
 }
