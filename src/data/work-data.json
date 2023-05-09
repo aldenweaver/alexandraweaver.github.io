@@ -1,0 +1,23 @@
+{ "work-data": [
+    {
+        "name": "Project Name",
+        "photo": "Project Photo (or video later?)",
+        "about": "Project About",
+        "url": "Project URL",
+        "skills": ["React", "Node", "JavaScript"]
+    },
+    {
+        "name": "Project Name",
+        "photo": "Project Photo (or video later?)",
+        "about": "Project About",
+        "url": "Project URL",
+        "skills": ["React", "Node", "JavaScript"]
+    },
+    {
+        "name": "Project Name",
+        "photo": "Project Photo (or video later?)",
+        "about": "Project About",
+        "url": "Project URL",
+        "skills": ["React", "Node", "JavaScript"]
+    }
+]}
